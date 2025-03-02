@@ -1,4 +1,5 @@
 🎯 Number Guessing Game (Python)
+
 A simple Number Guessing Game built with Python! This beginner-friendly project helps you practice Python basics like random number generation, user input handling, and conditional logic.
 
 🛠 Features
